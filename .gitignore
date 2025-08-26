@@ -1,0 +1,11 @@
+# Ignore Python virtual environments
+venv/
+.venv/
+
+# Ignore FAISS index folder
+faiss_index/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+.env
