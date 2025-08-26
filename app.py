@@ -95,7 +95,7 @@ def main():
         by asking questions and receiving answers based on the content.
     '''
     st.set_page_config("Chat PDF")
-    st.header("Chat with PDF using Gemini💁")
+    st.header("Chat with PDF using OpenAI💁")
 
     user_question = st.text_input("Ask a Question from the PDF Files")
 
